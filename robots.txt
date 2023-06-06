@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dsl-unibe-ch.github.io/create-your-personal-website-page-2023/sitemap.xml
+Sitemap: https://dsl.flick.solutions/sitemap.xml
