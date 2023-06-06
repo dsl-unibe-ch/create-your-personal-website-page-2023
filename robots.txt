@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://alshedivat.github.io/al-folio/sitemap.xml
+Sitemap: https://dsl-unibe-ch.github.io/create-your-personal-website-page-2023/sitemap.xml
